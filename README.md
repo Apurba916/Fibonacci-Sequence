@@ -1,2 +1,2 @@
 # Fibonacci-Sequence
-This is a program written in C language which lets you calculate the factorial of a number in seconds.
+This are program written in C and C++ language which lets you calculate the factorial of a number in seconds.
